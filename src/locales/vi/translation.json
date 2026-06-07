@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "school_life": "Đời sống học đường",
+    "admission": "Tuyển sinh đại học",
+    "visa": "Lưu trú & Visa"
+  },
+  "home": {
+    "hero_title": "Thông tin Giáo dục & Tuyển sinh dành cho học sinh có hoàn cảnh nhập cư",
+    "hero_subtitle": "Phòng thí nghiệm Sống Chính trị Công dân Đại học Hàn Quốc cùng bạn chuẩn bị cho một tương lai tốt đẹp hơn.",
+    "quick_links": "Liên kết nhanh"
+  },
+  "tooltip": {
+    "admission_guideline": "Hướng dẫn Tuyển sinh: Hướng dẫn chi tiết về điều kiện, phương thức và lịch trình tuyển sinh viên mới.",
+    "special_admission": "Tuyển sinh Đặc biệt: Phương thức tuyển sinh với các tiêu chí đặc biệt (ví dụ: dành cho người nước ngoài) khác với học sinh thông thường.",
+    "visa_status": "Tư cách lưu trú: Tình trạng hoặc mục đích được phép để người nước ngoài lưu trú tại Hàn Quốc (ví dụ: visa du học)."
+  }
+}

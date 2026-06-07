@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "school_life": "School Life",
+    "admission": "Admission",
+    "visa": "Stay & Visa"
+  },
+  "home": {
+    "hero_title": "Education & Admission Info for Immigrant-Background Students",
+    "hero_subtitle": "Korea University Citizen Politics Living Lab prepares for your better future together.",
+    "quick_links": "Quick Links"
+  },
+  "tooltip": {
+    "admission_guideline": "Admission Guideline: A guide detailing qualifications, methods, and schedules for recruiting new students.",
+    "special_admission": "Special Admission: An admission method with special criteria (e.g., for foreigners) different from general students.",
+    "visa_status": "Visa Status: The permitted status or purpose for a foreigner to stay in Korea (e.g., student visa)."
+  }
+}

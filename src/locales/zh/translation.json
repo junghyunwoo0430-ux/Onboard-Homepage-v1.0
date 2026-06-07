@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "首页",
+    "school_life": "学校生活",
+    "admission": "大学入学",
+    "visa": "停留与签证"
+  },
+  "home": {
+    "hero_title": "为移民背景学生提供的教育与入学信息",
+    "hero_subtitle": "高丽大学市民政治生活实验室与您共创美好未来。",
+    "quick_links": "快捷链接"
+  },
+  "tooltip": {
+    "admission_guideline": "招生简章：详细说明招收新生的资格、方法和日程的指南。",
+    "special_admission": "特别招生：针对具有特殊背景（如外国人）的学生的招生方式。",
+    "visa_status": "停留资格：允许外国人在韩国停留的身份或目的（例如学生签证）。"
+  }
+}

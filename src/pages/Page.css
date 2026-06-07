@@ -1,0 +1,54 @@
+.page-header {
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.page-title {
+  color: var(--color-primary);
+  font-size: 2rem;
+}
+
+.content-section {
+  background-color: var(--color-surface);
+  padding: 30px;
+  border-radius: var(--border-radius-md);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 20px;
+}
+
+.content-subtitle {
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+  color: var(--color-text-primary);
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: var(--color-primary);
+  color: #fff;
+  border-radius: var(--border-radius-sm);
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s;
+  border: none;
+  margin-top: 10px;
+}
+
+.download-btn:hover {
+  background-color: var(--color-primary-light);
+  color: #fff;
+}
+
+.list-item {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.list-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
