@@ -1,6 +1,9 @@
 ## 📌 프로젝트 소개
 본 프로젝트는 **고려대학교 시민정치 리빙랩**에서 주관하는 **이주배경학생 교육권 및 대학 입시 정보 제공 다국어 웹사이트**입니다. 이주배경학생들이 학교 생활, 입시, 비자 등과 관련된 정보를 쉽게 얻고 소통할 수 있도록 7개 국어를 지원하는 접근성 높은 플랫폼으로 개발되었습니다.
 
+<img width="1532" height="1125" alt="image" src="https://github.com/user-attachments/assets/c79af1e8-67b1-483b-b76c-f524947c54a9" />
+
+
 ## 🛠 기술 스택 (Tech Stack)
 - **프레임워크:** React 19, Vite
 - **라우팅:** React Router DOM v7
